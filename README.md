@@ -1,4 +1,4 @@
-![MasterHead](https://upload.wikimedia.org/wikipedia/commons/f/f8/Digital_rain_animation_medium_letters_3_shine.gif)
+![MasterHead](https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif)
 <h1 align="center">Hi 👋, I'm Shardul</h1>
 <h3 align="center">a passionate developer from India</h3>
 <p align="center">Our deepest fear is not that we are inadequate, Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness, that most frightens us. Your playing small does not serve the world.</p>
